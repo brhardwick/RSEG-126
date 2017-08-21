@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a test FROM B
+=======
+This is a test From A Adding to the file adding to the file again
+>>>>>>> refs/heads/feature-A
